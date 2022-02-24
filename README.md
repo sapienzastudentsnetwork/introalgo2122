@@ -18,7 +18,7 @@ Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organi
 ### Risorse utili
 
 - **Libro di testo**: "_Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduzione agli algoritmi, Mc Graw Hill_"<br/>
-- [Dispense](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/Dispense)
+- [Dispense, slides ed esercizi con soluzioni ufficiali](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/Dispense)
 - [Diario delle lezioni](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/DiarioDelleLezioni)
 - [Tracce (con indizi di soluzione) dei vecchi scritti](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/VecchiScritti)
 - [Risultati delle prove scritte](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/Risultati)
