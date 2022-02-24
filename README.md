@@ -6,8 +6,14 @@ Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi 
 
 _**N.B**: La conferma delle soluzioni come corrette dipende da più di una persona (dev'essere una soluzione condivisa) per cui ricordate, anche questa volta, nelle pagine degli esercizi ([issues](https://github.com/sapienzastudentsnetwork/introalgo2122/issues?q=is%3Aissue+sort%3Aupdated-desc+)) di aggiungere come "reazione" **alle soluzioni a vostro avviso corrette** un pollice in sù o di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato sono i benvenuti!_
 
-### Collegamenti rapidi
+### Categorie di esercizi
 
+- [Notazione asintotica](../../labels/notazione_asintotica)
+- [Costo computazionale](../../labels/costo_computazionale)
+
+### Altri collegamenti rapidi
+
+- [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
 - [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
 - [Clicca qui per una lista di esercizi etichettati come da revisionare](../../issues?q=label%3A"da+revisionare")
 - [Clicca qui per una lista di esercizi etichettati come da risolvere](../../issues?q=label%3A"da+risolvere")
