@@ -14,7 +14,6 @@ _**N.B**: La conferma delle soluzioni come corrette dipende da più di una perso
 ### Altri collegamenti rapidi
 
 - [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
-- [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
 - [Clicca qui per una lista di esercizi etichettati come da revisionare](../../issues?q=label%3A"da+revisionare")
 - [Clicca qui per una lista di esercizi etichettati come da risolvere](../../issues?q=label%3A"da+risolvere")
 - [Clicca qui per vedere gli esercizi ordinati per data di ultimo aggiornamento](../../issues?q=sort%3Aupdated-desc+)
