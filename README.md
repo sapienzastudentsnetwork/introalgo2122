@@ -10,14 +10,14 @@ _**N.B**: La conferma delle soluzioni come corrette dipende da più di una perso
 
 - [Clicca qui per una lista di esercizi etichettati come risolti](../../issues?q=label%3Arisolto+sort%3Aupdated-desc+)
 - [Clicca qui per una lista di esercizi etichettati come da revisionare](../../issues?q=label%3A"da+revisionare")
-- [Clicca qui per vedere gli ultimi aggiornamenti, es. commenti](../../issues?q=sort%3Aupdated-desc+)
+- [Clicca qui per una lista di esercizi etichettati come da risolvere](../../issues?q=label%3A"da+risolvere")
+- [Clicca qui per vedere gli esercizi ordinati per data di ultimo aggiornamento](../../issues?q=sort%3Aupdated-desc+)
 
 Se doveste avere dei consigli su come potremmo migliorare ulteriormente l'organizzazione della cosa potete scriverli come commento [qui](../../issues/1), ci saranno sicuramente utili! Grazie in anticipo :)
 
 ### Risorse utili
 
-**Libro di testo** adottato: "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduzione agli algoritmi, Mc Graw Hill"<br/>
-
+- **Libro di testo**: "_Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduzione agli algoritmi, Mc Graw Hill_"<br/>
 - [Dispense](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/Dispense)
 - [Diario delle lezioni](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/DiarioDelleLezioni)
 - [Tracce (con indizi di soluzione) dei vecchi scritti](https://twiki.di.uniroma1.it/twiki/view/Intro_algo/AD/VecchiScritti)
