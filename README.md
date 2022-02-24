@@ -2,7 +2,7 @@
 
 ## Introduzione
 
-Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi le soluzioni agli esercizi per casa di Introduzione agli Algoritmi, precedentemente avevamo collaborato per le soluzioni di [Metodi Matematici](https://github.com/sapienzastudentsnetwork/mmi2122) ed è stato un grande successo (insieme abbiamo risolto più di 40 esercizi con almeno 233 visitatori diversi con 9230 visualizzazioni totali che hanno consultato il repository), confidiamo nel potere collaborativo della nostra comunità di studenti anche per questo nuovo progetto 🙂
+Lo scopo di questo repository GitHub è di condividere e confrontare tra di noi le soluzioni agli esercizi per casa di Introduzione agli Algoritmi, precedentemente avevamo collaborato per le soluzioni di [Metodi Matematici](https://github.com/sapienzastudentsnetwork/mmi2122) ed è stato un grande successo (insieme abbiamo risolto più di **40** esercizi con almeno **233** visitatori diversi con **9230** visualizzazioni totali che hanno consultato il repository), confidiamo nel potere collaborativo della nostra comunità di studenti anche per questo nuovo progetto 🙂
 
 _**N.B**: La conferma delle soluzioni come corrette dipende da più di una persona (dev'essere una soluzione condivisa) per cui ricordate, anche questa volta, nelle pagine degli esercizi ([issues](https://github.com/sapienzastudentsnetwork/introalgo2122/issues?q=is%3Aissue+sort%3Aupdated-desc+)) di aggiungere come "reazione" **alle soluzioni a vostro avviso corrette** un pollice in sù o di aggiungere un commento del tipo "Soluzione analoga a quella di \<nome\>"; ovviamente anche altri approcci risolutivi che portano allo stesso risultato sono i benvenuti!_
 
